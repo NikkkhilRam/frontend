@@ -1,6 +1,6 @@
-# Blog Application Frontend
+# Blog Application Backend
 
-Welcome to the BitBrew frontend! This project is built using TypeScript, ReactJS, Tailwind CSS, Redux for state management,(https://github.com/NikkkhilRam/frontend-bitbrew.git)  and integrates with a backend built using Node.js, Express, and MongoDB . The application includes authentication and supports full CRUD (Create, Read, Update, Delete) operations for blog posts.
+Welcome to the BitBrew Backend! This project is built using TypeScript, ReactJS, Tailwind CSS, Redux for state management,(https://github.com/NikkkhilRam/frontend-bitbrew.git)  and integrates with a backend built using Node.js, Express, and MongoDB . The application includes authentication and supports full CRUD (Create, Read, Update, Delete) operations for blog posts.
 
 ## Features
 
